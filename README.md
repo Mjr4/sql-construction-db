@@ -37,10 +37,10 @@ realizadas para el control de los proyectos y pagos.
 ![App Screenshot](/screenshots/pagos.PNG)
 
 ## Tabla: Registro
-![App Screenshot](/screenshots/registro.PNG)
+![App Screenshot](/screenshots/registro.png)
 
 ## Tabla: Log
-![App Screenshot](/screenshots/log.PNG)
+![App Screenshot](/screenshots/log.png)
 
 
 
