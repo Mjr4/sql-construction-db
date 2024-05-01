@@ -1,5 +1,5 @@
 
-# Protipo de base de datos Relacional para empresa de construccion
+# Prototipo de base de datos Relacional para empresa de construccion
 
 El sistema está basado en recopilar y almacenar información de trabajadores, 
 horas trabajadas, ocupación, contratos, proyectos, actividades, pagos, fecha 
@@ -41,6 +41,5 @@ realizadas para el control de los proyectos y pagos.
 
 ## Tabla: Log
 ![App Screenshot](/screenshots/log.png)
-
 
 
